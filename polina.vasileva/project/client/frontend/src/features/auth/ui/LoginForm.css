@@ -1,0 +1,73 @@
+.login-card {
+    background: #FFFFFF;
+    border-radius: 12px;
+    padding: 40px;
+    width: 354px;;
+    max-width: 354px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.form-title {
+    font-family: 'Rubik', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+}
+
+.input-group label {
+    font-size: 14px;
+    color: #333;
+}
+
+.required {
+    color: #E91E63;
+    position: absolute;
+    top: 5px;     
+    right: -6px;   
+    font-size: 25px;  
+    line-height: 1;
+}
+
+.input-group input {
+    background-color: #E4E7EB;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 16px;
+    font-size: 16px;
+    outline: none;
+}
+
+.input-error {
+    border: 1px solid red !important;
+}
+
+.error-text {
+    color: red;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.submit-btn {
+    background-color: #115EFB;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    padding: 12px;
+    width: 120px; 
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.submit-btn:hover {
+    background-color: #0d4ecc;
+}

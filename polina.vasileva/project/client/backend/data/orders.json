@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1778008782150,
+    "userId": 1,
+    "items": [
+      {
+        "productId": 6,
+        "name": "Смартфон 256 ГБ фиолетовый",
+        "price": 34990,
+        "qty": 1
+      },
+      {
+        "productId": 2,
+        "name": "Внешний аккумулятор 10000mAh, черный",
+        "price": 1990,
+        "qty": 1
+      }
+    ],
+    "phone": "989999",
+    "email": "vasilyevaapolina2006@gmail.com",
+    "delivery": "pickup",
+    "payment": "card",
+    "packaging": true,
+    "total": 36980,
+    "createdAt": "2026-05-05T19:19:42.151Z"
+  },
+  {
+    "id": 1778009531053,
+    "userId": 1,
+    "items": [
+      {
+        "productId": 6,
+        "name": "Смартфон 256 ГБ фиолетовый",
+        "price": 34990,
+        "qty": 1
+      },
+      {
+        "productId": 14,
+        "name": "Наушники синие",
+        "price": 4490,
+        "qty": 1
+      }
+    ],
+    "phone": "+79642475788",
+    "email": "vasilyevaapolina2006@gmail.com",
+    "delivery": "delivery",
+    "payment": "card",
+    "packaging": false,
+    "total": 39480,
+    "createdAt": "2026-05-05T19:32:11.053Z"
+  },
+  {
+    "id": 1778009594394,
+    "userId": 1,
+    "items": [
+      {
+        "productId": 14,
+        "name": "Наушники синие",
+        "price": 4490,
+        "qty": 1
+      },
+      {
+        "productId": 6,
+        "name": "Смартфон 256 ГБ фиолетовый",
+        "price": 34990,
+        "qty": 1
+      }
+    ],
+    "phone": "",
+    "email": "vasilyevaapolina2006@gmail.com",
+    "delivery": "pickup",
+    "payment": "card",
+    "packaging": true,
+    "total": 39480,
+    "createdAt": "2026-05-05T19:33:14.394Z"
+  },
+  {
+    "id": 1778010103853,
+    "userId": 1,
+    "items": [
+      {
+        "productId": 6,
+        "name": "Смартфон 256 ГБ фиолетовый",
+        "price": 34990,
+        "qty": 1
+      },
+      {
+        "productId": 14,
+        "name": "Наушники синие",
+        "price": 4490,
+        "qty": 1
+      }
+    ],
+    "phone": "",
+    "email": "vasilyevaapolina2006@gmail.com",
+    "delivery": "pickup",
+    "payment": "card",
+    "packaging": true,
+    "total": 39480,
+    "createdAt": "2026-05-05T19:41:43.853Z"
+  },
+  {
+    "id": 1778082307012,
+    "userId": 1,
+    "items": [
+      {
+        "productId": 6,
+        "name": "Смартфон 256 ГБ фиолетовый",
+        "price": 34990,
+        "qty": 2
+      },
+      {
+        "productId": 25,
+        "name": "Умная лампа",
+        "price": 1290,
+        "qty": 1
+      },
+      {
+        "productId": 27,
+        "name": "Аппаратный криптокошелек",
+        "price": 12990,
+        "qty": 1
+      },
+      {
+        "productId": 17,
+        "name": "Микрофон с разъемом Type-C",
+        "price": 1490,
+        "qty": 1
+      },
+      {
+        "productId": 14,
+        "name": "Наушники синие",
+        "price": 4490,
+        "qty": 1
+      }
+    ],
+    "phone": "ыв",
+    "email": "vasilyevaapolina2006@gmail.com",
+    "delivery": "delivery",
+    "payment": "cash",
+    "packaging": true,
+    "total": 90240,
+    "createdAt": "2026-05-06T15:45:07.014Z"
+  }
+]

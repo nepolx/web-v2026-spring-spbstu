@@ -1,0 +1,21 @@
+.login-page-container {
+    background-color: #E9F1FB;
+    flex: 1;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;   
+    background-position: center;
+}
+
+.login-page-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 0;
+}
+
+.welcome-title {
+    margin-bottom: 32px;
+}

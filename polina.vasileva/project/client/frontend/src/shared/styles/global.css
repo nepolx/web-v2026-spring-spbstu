@@ -1,0 +1,70 @@
+* {
+  font-family: 'Rubik', sans-serif;
+}
+
+.header-16 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5; 
+    letter-spacing: 0;
+    color: #115EFB;
+}
+
+.header-32 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  color: #000;
+}
+
+.paragraph-14 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #000;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+/* Отступы задаем через обертку или медиа-запросы */
+@media (min-width: 1200px) {
+    .container {
+        padding: 0 calc((100% - 1200px) / 2);  /* динамические отступы */
+    }
+}
+
+/* На маленьких экранах делаем маленькие отступы */
+@media (max-width: 1199px) {
+    .container {
+        padding: 0 16px;  /* маленькие отступы по бокам */
+    }
+}
+
+a {
+  text-decoration: none;
+}
